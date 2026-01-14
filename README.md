@@ -10,8 +10,7 @@
 ![](https://github-readme-stats.vercel.app/api?username=VazhaK14&theme=shadow_blue&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=VazhaK14&theme=shadow_blue&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=VazhaK14&theme=shadow_blue&hide_border=false&include_all_commits=true&count_private=true&layout=compact)<br/>
-![](https://githubstat-rust.vercel.app/api?username=VazhaK14&theme=outrun&show_icons=true&hide_border=false&include_all_commits=true&count_private=true)
-
+![](https://githubstat-rust.vercel.app/api?username=VazhaK14&theme=shadow_blue&show_icons=true&hide_border=false&include_all_commits=true&count_private=true)<br/>
 
 
 ## 🌐 Socials:
