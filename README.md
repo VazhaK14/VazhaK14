@@ -1,5 +1,5 @@
 # 💫 About Me:
-🌱 I’m currently learning DevOps, Web Exploitation, PWN, C Language<br>💬 Ask me about  **Next JS, Nest JS, Java,  and Linux OS**<br>👯 I’m looking to collaborate on **Student Projects and Hackathon**
+🌱 I’m currently learning **DevOps, Web Exploitation, PWN, C Language, ASM x86**<br>💬 Ask me about  **Next JS, Nest JS, Java,  and Linux OS**<br>👯 I’m looking to collaborate on **Student Projects and Hackathon**
 
 
 ## 🌐 Socials:
