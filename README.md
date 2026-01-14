@@ -1,7 +1,10 @@
+<h1 align="center">Hi 👋, I'm Vazha Khayri</h1>
+<p align="center">
+  <b>Information System Undergraduate @ University of Indonesia</b> • Software Engineering Enthusiast • Low Level Enthusiast
+</p>
+
 # 💫 About Me:
 🌱 I’m currently learning **DevOps, Web Exploitation, PWN, C Language, ASM x86**<br>💬 Ask me about  **Next JS, Nest JS, Java,  and Linux OS**<br>👯 I’m looking to collaborate on **Student Projects and Hackathon**
-
-
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=VazhaK14&theme=shadow_blue&hide_border=false&include_all_commits=true&count_private=true)<br/>
@@ -10,9 +13,9 @@
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=VazhaK14&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+![](https://githubstat-rust.vercel.app/api?username=VazhaK14&theme=outrun&show_icons=true&hide_border=false&include_all_commits=true&count_private=true)
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=VazhaK14&limit=5&theme=dark&combine_all_yearly_contributions=true)
+
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/vazhaa._/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/vazha-khayri/) 
