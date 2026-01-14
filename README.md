@@ -1,7 +1,12 @@
-<h1 align="center">Hii ol! 👋, I'm Vazha Khayri</h1>
-<p align="center">
-  <b>Software Engineering & Cyberescurity Enthusiast
-</p>
+<div align="center">
+  
+# 👋 Hi 皆さん, I'm Vazha Khayri! 
+
+### 🎓 Information System Student @ Universitas Indonesia
+### 💻 Full-Stack Developer & Cybersecurity Enthusiast 
+</div>
+
+---
 
 # 💫 About Me:
 🌱 I’m currently learning **DevOps, Web Exploitation, PWN, C Language, ASM x86**<br>💬 Ask me about  **Next JS, Nest JS, Java,  and Linux OS**<br>👯 I’m looking to collaborate on **Student Projects and Hackathon**
