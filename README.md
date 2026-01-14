@@ -1,6 +1,6 @@
-<h1 align="center">Hi 👋, I'm Vazha Khayri</h1>
+<h1 align="center">Hii ol! 👋, I'm Vazha Khayri</h1>
 <p align="center">
-  <b>Information System Undergraduate @ University of Indonesia</b> • Software Engineering Enthusiast • Low Level Enthusiast
+  <b>Software Engineering & Cyberescurity Enthusiast
 </p>
 
 # 💫 About Me:
